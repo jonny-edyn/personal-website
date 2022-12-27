@@ -7,10 +7,10 @@
   --maxWidth-md: 28rem;
   --maxWidth-lg: 32rem;
   --maxWidth-xl: 36rem;
-  --maxWidth-2xl: 42rem;
+  --maxWidth-2xl: 50rem;
   --maxWidth-3xl: 48rem;
   --maxWidth-4xl: 56rem;
-  --maxWidth-full: "100%";
+  --maxWidth-full: "10%";
   --maxWidth-wrapper: var(--maxWidth-2xl);
   --spacing-px: "1px";
   --spacing-0: 0;
@@ -58,7 +58,11 @@
   --color-heading: #1a202c;
   --color-heading-black: black;
   --color-accent: #d1dce5;
+   --bg-color: hsl(49 37% 94%);
+  --typewriterSpeed: 6s;
+  --typewriterCharacters: 24;
 }
+
 
 /* HTML elements */
 
@@ -284,6 +288,14 @@ a:focus {
   font-size: var(--fontSize-2);
 }
 
+.header-home {
+  font-weight: var(--fontWeight-bold);
+  font-family: var(--font-heading);
+  text-decoration: none;
+  font-size: var(--fontSize-2);
+  color: var(--color-heading-black);
+}
+
 .bio {
   display: flex;
   margin-bottom: var(--spacing-16);
@@ -296,9 +308,15 @@ a:focus {
 .bio-avatar {
   margin-right: var(--spacing-4);
   margin-bottom: var(--spacing-0);
-  min-width: 50px;
+  min-width: 125px;
   border-radius: 100%;
+  
 }
+
+.blah {
+  font-size: var(--fontSize-5);
+}
+
 
 .blog-post header h1 {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
@@ -313,11 +331,63 @@ a:focus {
   margin: var(--spacing-0);
 }
 
+
+.button1 {
+  --b: 0.5px;   /* border thickness */
+  --s: .45em; /* size of the corner */
+  --color: #373B44;
+  
+  margin-top: 10px; 
+  margin-right: 10px;
+  padding: calc(.5em + var(--s)) calc(.9em + var(--s));
+  color: var(--color);
+  --_p: var(--s);
+  background:
+    conic-gradient(from 90deg at var(--b) var(--b),#0000 90deg,var(--color) 0)
+    var(--_p) var(--_p)/calc(100% - var(--b) - 2*var(--_p)) calc(100% - var(--b) - 2*var(--_p));
+  transition: .3s linear, color 0s, background-color 0s;
+  outline: var(--b) solid #0000;
+  outline-offset: .6em;
+  font-size: 16px;
+
+  border: 0;
+
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button1:hover,
+.button1:focus-visible{
+  --_p: 0px;
+  outline-color: var(--color);
+  outline-offset: .05em;
+}
+
+.button1:active {
+  background: var(--color);
+  color: #fff;
+}
+
+
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
 }
 
+
 /* Media queries */
+
+@keyframes spinning {
+  from { transform: rotate(0deg) }
+  to { transform: rotate(360deg) }
+}
+.spinhov:hover {
+  animation-name: spinning;
+  animation-duration: 1s;
+  animation-iteration-count: 1;
+  /* linear | ease | ease-in | ease-out | ease-in-out */
+  animation-timing-function: ease-in-out;
+}
 
 @media (max-width: 42rem) {
   blockquote {

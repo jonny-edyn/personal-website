@@ -8,6 +8,7 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
+import Typewriter from "typewriter-effect"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -20,6 +21,7 @@ const Bio = () => {
           }
           social {
             twitter
+            instagram
           }
         }
       }
@@ -33,23 +35,53 @@ const Bio = () => {
   return (
     <div className="bio">
       <StaticImage
-        className="bio-avatar"
+        className="bio-avatar spinhov"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
-        src="../images/profile-pic.png"
-        width={50}
-        height={50}
-        quality={95}
+        src="../images/jonny-profile-pic.png"
+        width={125}
+        height={125}
+        quality={98}
         alt="Profile picture"
       />
       {author?.name && (
-        <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
-          </a>
-        </p>
+        <div>
+          <p>
+            <div className="blah">
+              <Typewriter
+                onInit={typewriter => {
+                  typewriter
+                    .typeString("Hello! I'm Jon Bot")
+                    .deleteChars(4)
+                    .pauseFor(500)
+                    .typeString("ny Bottomley")
+                    .start()
+                }}
+              />
+            </div>
+            I spend most of my days in London working on{` `}
+            <a href="https://www.edyn.care">
+              <strong>edyn</strong>
+            </a>
+            . Written by <strong>{author.name}</strong>{" "}
+            {author?.summary || null}
+            {` `}
+            <br></br>
+            <button className="button1">
+              {" "}
+              <a href={`https://twitter.com/${social?.twitter || ``}`}>
+                Twitter
+              </a>
+            </button>
+            {` `} {` `}
+            <button className="button1">
+              {" "}
+              <a href={`https://instagram.com/${social?.instagram || ``}`}>
+                Instagram
+              </a>
+            </button>
+          </p>
+        </div>
       )}
     </div>
   )
