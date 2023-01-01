@@ -314,7 +314,8 @@ a:focus {
 }
 
 .blah {
-  font-size: var(--fontSize-5);
+  font-size: var(--fontSize-3);
+  font-weight : var(--fontWeight-bold);
 }
 
 
@@ -333,10 +334,6 @@ a:focus {
 
 
 .button1 {
-  --b: 0.5px;   /* border thickness */
-  --s: .45em; /* size of the corner */
-  --color: #373B44;
-  
   margin-top: 10px; 
   margin-right: 10px;
   padding: calc(.5em + var(--s)) calc(.9em + var(--s));
@@ -350,25 +347,8 @@ a:focus {
   outline-offset: .6em;
   font-size: 16px;
 
-  border: 0;
-
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
+  border: 0
 }
-
-.button1:hover,
-.button1:focus-visible{
-  --_p: 0px;
-  outline-color: var(--color);
-  outline-offset: .05em;
-}
-
-.button1:active {
-  background: var(--color);
-  color: #fff;
-}
-
 
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);

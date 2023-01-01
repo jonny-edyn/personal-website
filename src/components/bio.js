@@ -6,9 +6,10 @@
  */
 
 import * as React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import Typewriter from "typewriter-effect"
+
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -51,35 +52,30 @@ const Bio = () => {
               <Typewriter
                 onInit={typewriter => {
                   typewriter
-                    .typeString("Hello! I'm Jon Bot")
-                    .deleteChars(4)
+                    .typeString("Hello! I'm Jonny")
                     .pauseFor(500)
-                    .typeString("ny Bottomley")
+                    .deleteChars(9)
+                    .pauseFor(500)
+                    .typeString("I hope you enjoy reading this")
                     .start()
                 }}
               />
             </div>
-            I spend most of my days in London working on{` `}
+              These days, I spend most of my days in London working on{` `}
             <a href="https://www.edyn.care">
-              <strong>edyn</strong>
-            </a>
-            . Written by <strong>{author.name}</strong>{" "}
+              edyn
+            </a>. {` `}
             {author?.summary || null}
-            {` `}
+            {` `} You can find out a little more <Link to="/about-me">here</Link> and see a list of projects I've worked on.
             <br></br>
             <button className="button1">
               {" "}
+              I'm on twitter{" "}
               <a href={`https://twitter.com/${social?.twitter || ``}`}>
-                Twitter
+                 @jonny_bottomley
               </a>
             </button>
             {` `} {` `}
-            <button className="button1">
-              {" "}
-              <a href={`https://instagram.com/${social?.instagram || ``}`}>
-                Instagram
-              </a>
-            </button>
           </p>
         </div>
       )}

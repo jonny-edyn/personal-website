@@ -9,10 +9,10 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Ramblings of 2023`,
+    title: `Jonny Bottomley`,
     author: {
       name: `Jonny Bottomley`,
-      summary: `who lives and works in London building useful things.`,
+      summary: `I spent the last big chunks of my life working at Doteveryone, in Parliament and banks.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
