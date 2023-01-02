@@ -1,7 +1,7 @@
 ---
 title: My top tracks this month
 date: "2023-01-02T22:12:04.284Z"
-description: "I'm working on using the spotify API to call the last 50 tracks I've been listening to on spotify and create a list. This is a work on progress and something I hope to have completed by end of January 23."
+description: "I'm working on using the spotify API to call the last 50 tracks I've been listening to on spotify and create a list. This is a work in progress and something I hope to have completed by end of January 23."
 ---
 
 I'm working on using the spotify API to call the last 50 tracks I've been listening to on spotify and create a list. This is a work on progress and something I hope to have completed by end of January 23. Below is hard coded by acts as a wireframe to build from. 
