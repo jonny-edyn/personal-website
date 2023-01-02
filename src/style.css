@@ -378,4 +378,14 @@ a:focus {
   ol {
     list-style-position: inside;
   }
+  .bio {
+    display: block; 
+  }
+  .blah {
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+  .birds {
+    width: 400px;
+  }
 }

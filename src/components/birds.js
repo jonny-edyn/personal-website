@@ -35,6 +35,7 @@ const Birds = () => {
   return (
     <div>
       <StaticImage
+        className="birds"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
         src="../images/birds.jpeg"
