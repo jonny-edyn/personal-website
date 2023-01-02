@@ -15,7 +15,7 @@ module.exports = {
       summary: `I spent the last big chunks of my life working at Doteveryone, in Parliament and banks.`,
     },
     description: `Personal site of Jonny Bottomley, founder of edyn from London.`,
-    siteUrl: `www.jonnybottomley.com`,
+    siteUrl: `https://jonnybottomley.com`,
     social: {
       twitter: `jonny_bottomley`,
       instagram: 'jonny_bottomley'
