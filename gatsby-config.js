@@ -14,8 +14,8 @@ module.exports = {
       name: `Jonny Bottomley`,
       summary: `I spent the last big chunks of my life working at Doteveryone, in Parliament and banks.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Personal site of Jonny Bottomley, founder of edyn from London.`,
+    siteUrl: `www.jonnybottomley.com`,
     social: {
       twitter: `jonny_bottomley`,
       instagram: 'jonny_bottomley'
@@ -103,7 +103,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Jonny Bottomley's Blog RSS Feed",
           },
         ],
       },
