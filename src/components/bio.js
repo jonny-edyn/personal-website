@@ -75,7 +75,6 @@ const Bio = () => {
                  @jonny_bottomley
               </a>
             </button>
-            {` `} {` `}
           </p>
         </div>
       )}

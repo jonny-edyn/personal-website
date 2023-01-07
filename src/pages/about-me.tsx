@@ -2,9 +2,10 @@
 import * as React from "react"
 import { PageProps, Link, graphql, HeadFC } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import MarsPic from "../components/mars"
+import LinesPic from "../components/lines"
 
 type DataProps = {
   site: {
@@ -12,20 +13,14 @@ type DataProps = {
   }
 }
 
+
 const Aboutme: React.FC<PageProps<DataProps>> = ({
   data,
   path,
   location,
 }) => (
   <Layout title="About me" location={location}>
-     <StaticImage
-        layout="fixed"
-        formats={["auto", "webp", "avif"]}
-        src="../images/mars5.png"
-        quality={98}
-        alt="Profile picture"
-      />
-
+   <MarsPic />
    <h1>A little more..</h1>
     <p>
     I’m Jonny, a London based founder of <a href="https://www.edyn.care">edyn</a> a tech-enabled live-in care company
@@ -43,15 +38,7 @@ const Aboutme: React.FC<PageProps<DataProps>> = ({
 
     </p>
   <br></br>
-    <StaticImage
-        layout="fixed"
-        formats={["auto", "webp", "avif"]}
-        src="../images/lines-of-communication.jpeg"
-        width={735}
-        quality={98}
-        alt="Profile picture"
-      />
-
+   <LinesPic />
     <h4>Connect:</h4>
         <ul>
             <li>

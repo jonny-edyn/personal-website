@@ -6,46 +6,68 @@
  */
 
 import * as React from "react"
-import { StaticImage } from "gatsby-plugin-image"
-import { useStaticQuery, graphql, Link } from "gatsby"
+import { graphql, useStaticQuery } from "gatsby"
+import Img from "gatsby-image"
 
 
 const Birds = () => {
   const data = useStaticQuery(graphql`
-    query BioQuery {
-      site {
-        siteMetadata {
-          author {
-            name
-            summary
-          }
-          social {
-            twitter
-            instagram
+    query {
+      file(relativePath: { eq: "birds.jpeg" }) {
+        childImageSharp {
+          fluid {
+            ...GatsbyImageSharpFluid
           }
         }
       }
     }
   `)
 
-  // Set these values by editing "siteMetadata" in gatsby-config.js
-  const author = data.site.siteMetadata?.author
-  const social = data.site.siteMetadata?.social
-
-  return (
-    <div>
-      <StaticImage
-        className="birds"
-        layout="fixed"
-        formats={["auto", "webp", "avif"]}
-        src="../images/birds.jpeg"
-        width={750}
-        quality={98}
-        alt="Profile picture"
-      />
-      <br></br>
-      </div>
-  )
+  return <Img fluid={data.file.childImageSharp.fluid} />
+  
 }
 
 export default Birds
+
+
+
+
+// const Birds = () => {
+//   const data = useStaticQuery(graphql`
+//     query BioQuery {
+//       site {
+//         siteMetadata {
+//           author {
+//             name
+//             summary
+//           }
+//           social {
+//             twitter
+//             instagram
+//           }
+//         }
+//       }
+//     }
+//   `)
+
+//   // Set these values by editing "siteMetadata" in gatsby-config.js
+//   const author = data.site.siteMetadata?.author
+//   const social = data.site.siteMetadata?.social
+
+//   return (
+//     <div>
+//       <StaticImage
+//         className="birds"
+//         layout="fixed"
+//         formats={["auto", "webp", "avif"]}
+//         src="../images/birds.jpeg"
+//         width={750}
+//         quality={98}
+//         alt="Profile picture"
+//       />
+//       <br></br>
+//       </div>
+//   )
+// }
+
+// export default Birds
