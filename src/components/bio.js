@@ -36,7 +36,7 @@ const Bio = () => {
   return (
     <div className="bio">
       <StaticImage
-        className="bio-avatar spinhov"
+        className="bio-avatar"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
         src="../images/jonny-profile-pic.png"
