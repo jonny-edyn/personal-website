@@ -21,7 +21,6 @@ const Aboutme: React.FC<PageProps<DataProps>> = ({
 }) => (
   <Layout title="About me" location={location}>
    <MarsPic />
-   <SavedTracks />
    <h1>A little more..</h1>
     <p>
     I’m Jonny, a London based founder of <a href="https://www.edyn.care">edyn</a> a tech-enabled live-in care company
