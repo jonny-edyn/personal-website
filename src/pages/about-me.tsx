@@ -6,7 +6,6 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import MarsPic from "../components/mars"
 import LinesPic from "../components/lines"
-import SavedTracks from "../components/recentPlays"
 
 type DataProps = {
   site: {
