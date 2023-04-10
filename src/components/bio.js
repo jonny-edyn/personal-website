@@ -43,6 +43,7 @@ const Bio = () => {
         width={125}
         height={125}
         quality={98}
+        imgStyle={{ borderRadius: '100%' }}
         alt="Profile picture"
       />
       {author?.name && (
@@ -56,7 +57,7 @@ const Bio = () => {
                     .pauseFor(500)
                     .deleteChars(9)
                     .pauseFor(500)
-                    .typeString("I hope you enjoy reading this")
+                    .typeString("I hope you're well 🤘")
                     .start()
                 }}
               />
