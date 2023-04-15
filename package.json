@@ -1,13 +1,14 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "Jonny Bottomley Personal Website",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Personal site of Jonny Bottomley, founder of edyn from London.",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "@fontsource/inter": "^4.5.15",
     "@fontsource/merriweather": "^4.5.14",
     "@fontsource/montserrat": "^4.5.13",
     "gatsby": "^5.3.3",
