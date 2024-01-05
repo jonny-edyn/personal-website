@@ -4,6 +4,8 @@ date: "2023-01-02T22:12:03.284Z"
 description: "This article was first posted on medium on September 15th, 2015. It looks at how Jeremy Corbyn could overcome the compounding media narrative being created by his enemies through embracing a reductionist view of politics."
 ---
 
+> This article was first posted on medium on September 15th, 2015. It looks at how Jeremy Corbyn could overcome the compounding media narrative being created by his enemies through embracing a reductionist view of politics.
+
 Jeremy Corbyn’s democratic socialism is now standing at the dispatch box in Westminster and his rivals have gone on the offensive. The anti-Corbyn narrative has been set into motion and his branding is well under way. If Corbyn and Labour are to weather the storm over the coming months, they must diligently control their own image, embrace a reductionist view of politics and surprise people.
 
 I was speaking to a friend from America a few days ago and he struggled to understand why the Conservative party didn’t walk the 2015 election. Look at it from an “outsider’s” perspective; the UK Economy is in it’s 3rd year of recovery, inflation is low, unemployment is continuing on its downwards path and David Cameron is popular (enough) with the electorate. Surely, he argued, the prerequisites of a certain re-election were established. However, what he had failed to consider is the power of a party’s brand (when I say brand I refer to its reputation). A party’s brand is fundamental in its ability to swing votes and it essentially rests on two questions:

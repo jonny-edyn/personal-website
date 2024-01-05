@@ -12,7 +12,7 @@ module.exports = {
     title: `Jonny Bottomley`,
     author: {
       name: `Jonny Bottomley`,
-      summary: `I have spent the last big chunks of my life working at Doteveryone, in Parliament and banks.`,
+      summary: `I have spent the last big chunks of my life working at think tanks, in Parliament and banks.`,
     },
     description: `Personal site of Jonny Bottomley, founder of edyn from London.`,
     siteUrl: `https://jonnybottomley.com`,
