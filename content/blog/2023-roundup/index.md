@@ -16,13 +16,13 @@ Standout tracks/bands/albums are:
 
 - IDLES -  dancer. I was lucky to see IDLES at their Finsbury Park gig warming up for Jamie T and they smashed it. 
 
-- MF DOOM - just all the doom catalogue. It’s all gold. Any Dooms fans who haven’t read Ta-Nehisi Coates article spending a few days with Doom need to check it out [here](https://www.newyorker.com/magazine/2009/09/21/the-mask-of-doom). I returned to this piece a few times this year and get more from it each time.
+- MF DOOM - just all the doom catalogue. It’s all gold. Any Dooms fans who haven’t read Ta-Nehisi Coates article spending a few days with Doom need to check it out [here](https://www.newyorker.com/magazine/2009/09/21/the-mask-of-doom). I returned to this piece a few times this year and got more from it each time.
 
-- Jay Electronica - fruits of the spirit. The rapper who signed to Jay Z’s Roc Nation label in 2010 but didn’t release his debut album until 2020. Apparently Electronica scrapped a number of albums due to them not emitting the narrative he wanted. The 1 minute 34 sec song should have bagged him a Grammy itself.
+- Jay Electronica - fruits of the spirit. The rapper who signed to Jay Z’s Roc Nation label in 2010 but didn’t release his debut album until 2020. Apparently Electronica scrapped a number of albums due to them not emitting the themes he wanted. The 1 minute 34 sec song should have bagged him a Grammy itself.
 
-- Tazmin Lacey - voice notes. Her debut album. Neo-soul bumpers through out. Pour yourself and glass of wine after a long day and escape.
+- Tazmin Lacey - voice notes. Her debut album. Neo-soul bumpers through out. Pour yourself and glass of wine after a long day and escape with T.
 
-- Sufjan Stevens - Javelin. Raw and direct songwriting about love and devotion. It ends with a rendition of Neil’s Young’s - There’s a world. 
+- Sufjan Stevens - Javelin. Raw and direct songwriting about love and devotion. It ends with a lovely rendition of Neil’s Young’s - There’s a world. 
 
 - Julie Fowlis - alterum. A gaelic singer raised on the Outer Hebridean island of North Uist. I have no idea what’s she saying but whatever it is it’s beautiful.
 
@@ -48,28 +48,28 @@ Spotify playlists: [January](https://open.spotify.com/playlist/5IZoPYbwGKrqhOx9l
 
 #### Podcasts:
 
-- The Screen Rot Podcast - Two comedians in their early 30’s discuss the weirdest and worst content from the internet from breaking down the success of Big John and the annoyance of certain instagram families. 
+- The Screen Rot Podcast - Two comedians in their early 30’s discuss the weirdest and worst content from the internet from breaking down the success of insta's Big John to the faux happiness of eating with Tod. Big up the rotters! 
 
 - My Martin Amis - Personal stories from writers, critics and publicists about the life and legacy of the late Martin Amis. The Janan Ganesh episode is a particular favourite. 
 
-- Changes with Annie Macmanus - Ex radio 1 DJ leverages her contact to get some of the worlds best writers, musicians and comedians to talk about a big life event they experienced and the ramification of this. The Zadie Smith episode is a good place to start. Because, well it’s Zadie and she’s one of the best!
+- Changes with Annie Macmanus - Ex radio 1 DJ, Annie, leverages her contacts to get some of the worlds best writers, musicians and comedians to talk about a big life event they experienced and the ramification of this. The Zadie Smith episode is a good place to start. Because, well it’s Zadie and she’s one of the best!
 
 - Out to lunch with Jay Rayner - Great listen to get restaurant recommendations and most importantly which dishes to order.
 
 - Ed Bryne need a hobby - Ed meets up with his celeb mates to try their favourite past time and then interrogates them to see if it’s for him. Unsurprisingly they never are but it’s adorable to listen people talk about their passions and outline what they get from it.  
 
-- Elis James and John Robins - a heartfelt listen which both comedians opening up to each other about their mental health whilst taking the piss out each other like only friends can. 
+- Elis James and John Robins - a heartfelt listen with both comedians opening up to each other about their mental health whilst taking the piss out each other like only friends can. 
 
-- The Rugby Pod - two distinctly average former rugby players discuss the latest games in premiership and six nations. Most rugby pods are a difficult listen but this the right blend of well informed analysis and dubious rumours.
+- The Rugby Pod - two distinctly average former rugby players discuss the latest games in premiership and six nations. Most rugby pods are a difficult listen but this has the right blend of well informed analysis and dubious rumours.
 
-- The Rest is Entertainment - Gary Lineker, when he’s not reading out football scores on the BBC for preposterous amounts of dollar, is presiding over curating some of the UK’s most listened to podcasts and the Rest is Entertainment is his companies latest rendition. Richard Osmand and Marina Hyde pair up to di
+- The Rest is Entertainment - Gary Lineker, when he’s not reading out football scores on the BBC for preposterous amounts of tax payers money lol, is presiding over curating some of the UK’s most listened to podcasts and the Rest is Entertainment is his companies latest rendition. Richard Osman and Marina Hyde are a perfect match.
 
 
 #### Top TV:
 
 - The Bear - it somehow managed to overcome second-season syndrome and is a wonderful watch. Each character has their own story and it’s so well layered and true. Episode 6 “Fishes” is a real standout episode - simultaneously haunting and hopeful. 
 
-- Top Boy - who doesn’t want to watch Kano be an absolute G. 
+- Top Boy - who doesn’t want to watch Kano be an absolute G?
 
 - Succession - Jessie Armstrong’s season 4 of absolute power, infallibility and dysfunction did not disappoint. The script continued to give us our profane wordplay fix meditating on the theme that words are often meaningless whether intentionally or not. 
 
@@ -82,37 +82,37 @@ Spotify playlists: [January](https://open.spotify.com/playlist/5IZoPYbwGKrqhOx9l
 
 #### Top Movies:
 
-- The Thing - a sci-fi classic ticked off. I don’t like horror movies and the paranoid hide-and-seek lurked around in my psyche for a couple of weeks. 
+- The Thing - a sci-fi classic ticked off. I don’t like horror movies and the paranoid hide-and-seek lurked around in my psyche for a couple of weeks.
 
-- Triangle of Sadness - satirical take on the glamorous and tumultuous world of fashion layered yet so true. 
+- Triangle of Sadness - satirical take on the glamorous and tumultuous world of fashion, yet so true. 
 
 - Navalny - free Navally, obviously but the documentary does make you realise he was a megalomaniac and loved the attention. 
 
 - Akira - an amazing anime watch made in the 80s. 
 
-- John Mulaney "Baby J” -John Mulaney hilariously reflects on the absurdities of life and his battle with adiction.  
-
-- Saltburn - I found it transgressive when I think it was trying to be subversive.  
+- John Mulaney "Baby J” -John Mulaney hilariously reflects on the absurdities of life and his battle with addiction.  
 
 - Spirited Away- another classic. Best movie I watched this year. 
 
 - Barbie - didn’t disappoint par the soundtrack. 
 
+- Saltburn - I found it transgressive and didn't get an big takeaway other than being provoked - what's its essence? Barry Keoghan is undoubtably a don.
+
 #### Books:
 
-- Glutton - Ed Gamble: I really enjoyed the level of detail Ed goes into when doing his reveries of food from his childhood. A particular highlight was his breakdown of his football team of cheese (which should have been called ‘The fromagers’) - obviously you have mature cheddar in goal 
+- Glutton - Ed Gamble: I really enjoyed the level of detail Ed goes into when remembering the food of his childhood. A particular highlight was his breakdown of his football team of cheese (which should have been called ‘The fromagers’) - obviously you have mature cheddar in goal! 
 
-- Johnson at 10: The inside story - Anthony Seldom: When you think the Tories can inflict more pain to the country they deliver us Boris. An infuriating read but got to be done - Downing Street was more of a shit show than you could imagine. But yeh, they’re in the House of Lords now, so all is right with the world.
+- Johnson at 10: The inside story - Anthony Seldom: When you think the Tories can't inflict more pain to the country they deliver us Boris. An infuriating read but had to be done - Downing Street was more of a shit show than you could have imagined. But yeh, they’re in the House of Lords now, so all is right with the world! Twats
 
-- Gotta get Theroux this: My Life and Strange Times in Television - Louis Theroux: 
+- Gotta get Theroux this: My Life and Strange Times in Television - Louis Theroux: Easy read to get over above and really related to his thoughts about his upbringing. 
 
-- Man’s Search For Meaning - Viktor E Frankl: best book I read this year. Worth being on everyone’s list. 
+- Man’s Search For Meaning - Viktor E Frankl: best book I read this year. Definitely, worthy of being on everyone’s list. 
 
-- The Places in Between - Rory Stewart: Mr middle ground has had an interesting life his adventure across Afghanistan was no different. 
+- The Places in Between - Rory Stewart: Mr middle ground has had an interesting life and his adventure across Afghanistan was no different. Gives a good insight into why nation building never works.  
 
 - The Lord of the Rings - J.R.R Tolkien: Re-read this. Just as good.
 
-- Educated - Tara Westover: a brutal read of child neglect and abuse whilst giving the reader a glimpse of the internal dynamics of a patriarchal family in which one’s truth is determined and entrenched by those closest around them and the levers of change are difficult to move without detrimental effects to those relationships.
+- Educated - Tara Westover: a brutal read of child neglect and abuse whilst giving the you a glimpse of the internal dynamics of a patriarchal family in which one’s truth is determined and entrenched by those closest around them and the levers of change are difficult to move without detrimental effects to those relationships.
 
 - The War Against Cliche - Martin Amis: I think I’ll always dive in and out of his essays. They age far better than the novels - par the information.
 
@@ -144,10 +144,10 @@ Spotify playlists: [January](https://open.spotify.com/playlist/5IZoPYbwGKrqhOx9l
 
 Here are a few of the places that bought joy to my year: 
 
-- Zell em See - skiing trip for Bday in a Austria which had surprisingly good snow and runs. Just don’t miss the last lift down in the evening!
+- Zell em See - skiing trip for bday in a Austria which had surprisingly good snow and runs. Just don’t miss the last lift down in the evening!
 - Mumbles - what a part of the world. 
-- Isle of Mull - summer camping trip. The hebrides is my favourite place in world. 
-- Barcelona - visit gf’s brother. 
+- Isle of Mull - summer camping trip. The Hebrides are my favourite place in world. 
+- Barcelona - visit to gf’s brother living out there. Oh the food! 
 - Lords cricket - all the ashes. 
 - Bath - thought about moving there. Maybe not. 
 - Mountains ⛰️: Pen Y fan & Schiellion
