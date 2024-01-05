@@ -4,11 +4,11 @@ date: "2024-01-06T22:12:04.284Z"
 description: "I’ve decided to join the mob and start putting down on the keys an annual round-up of my year in music, films, podcast and books (etc etc). Let me know if you’ve got some suggestions that I missed. It’s been a whirlwind of year both personally and professionally."
 ---
 
-I’ve decided to join the mob and start putting down on the keys an annual round-up of my year in music, films, podcast, restaurants and books (etc, etc). Please allow the self-indulgence for a few minutes. Let me know if you’ve got some suggestions or there is something that I have missed. It’s been a whirlwind of year both personally and professionally. Bring on 2024 💪
+I’ve decided to join the mob and put down on the keys an annual round-up of my year in music, films, podcast, restaurants and books (etc, etc). So, please allow the self-indulgence for a few minutes. Let me know if you’ve got some suggestions or if there is something that I've missed. It’s been a whirlwind of year both personally and professionally. Bring on 2024 💪
 
 #### Music:
 
-I’ve haven’t purchased a record this year and haven’t been listening to as much music as previous years. I think the proliferation of decent podcasts is a prime suspect for this, however, I’ve still be creating monthly playlist - if I like a song, I add it to the respective month playlist it was found. It acts as a listening book of the year which you can review and reflect on how mind space effects listening habits and visa versa. 
+I haven’t purchased a record this year and haven’t been listening to as much music as previous years. I think the prime suspect for this is the proliferation of decent podcasts, however, I’ve still be creating monthly playlist - if I like a song, I add it to the respective month playlist it was found. It acts as a listening book of the year which you can review and reflect on how mind space effects listening habits and visa versa. 
 
 Standout tracks/bands/albums are:
 
@@ -16,15 +16,15 @@ Standout tracks/bands/albums are:
 
 - IDLES -  dancer. I was lucky to see IDLES at their Finsbury Park gig warming up for Jamie T and they smashed it. 
 
-- MF DOOM - just all the doom catalogue. It’s all gold. Any Dooms fans who haven’t read Ta-Nehisi Coates article spending a few days with Doom need to check it out [here](https://www.newyorker.com/magazine/2009/09/21/the-mask-of-doom). I returned to this piece a few times this year.
+- MF DOOM - just all the doom catalogue. It’s all gold. Any Dooms fans who haven’t read Ta-Nehisi Coates article spending a few days with Doom need to check it out [here](https://www.newyorker.com/magazine/2009/09/21/the-mask-of-doom). I returned to this piece a few times this year and get more from it each time.
 
 - Jay Electronica - fruits of the spirit. The rapper who signed to Jay Z’s Roc Nation label in 2010 but didn’t release his debut album until 2020. Apparently Electronica scrapped a number of albums due to them not emitting the narrative he wanted. The 1 minute 34 sec song should have bagged him a Grammy itself.
 
 - Tazmin Lacey - voice notes. Her debut album. Neo-soul bumpers through out. Pour yourself and glass of wine after a long day and escape.
 
-- Sufjan Stevens - Javelin. Raw and direct songwriting about love and devotion. Ends with a nice rendition of Neil’s Young’s - There’s a world. 
+- Sufjan Stevens - Javelin. Raw and direct songwriting about love and devotion. It ends with a rendition of Neil’s Young’s - There’s a world. 
 
-- Julie Fowlis - alterum Gaelic singer raised on the Outer Hebridean island of North Uist. I have no idea what’s she saying but whatever it is it’s beautiful.
+- Julie Fowlis - alterum. A gaelic singer raised on the Outer Hebridean island of North Uist. I have no idea what’s she saying but whatever it is it’s beautiful.
 
 - [Music for dancing: Disco | House | Afro 🪩](https://open.spotify.com/playlist/1NjeJFtVOYHr4z9zO6LSXx?si=41d934146c8c4cf6) - I started building out this playlist over the past few months. If you have any dance floor belters lmk. 
 
@@ -92,7 +92,7 @@ Spotify playlists: [January](https://open.spotify.com/playlist/5IZoPYbwGKrqhOx9l
 
 - John Mulaney "Baby J” -John Mulaney hilariously reflects on the absurdities of life and his battle with adiction.  
 
-- Saltburn - I found it transgressive when I think it was trying to be subversive. 
+- Saltburn - I found it transgressive when I think it was trying to be subversive.  
 
 - Spirited Away- another classic. Best movie I watched this year. 
 
