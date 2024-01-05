@@ -138,8 +138,6 @@ Spotify playlists: [January](https://open.spotify.com/playlist/5IZoPYbwGKrqhOx9l
 - Codenames
 - Listography
 
-#### Websites & apps
-
 #### Places
 
 Here are a few of the places that bought joy to my year: 
