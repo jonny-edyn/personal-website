@@ -142,7 +142,7 @@ Spotify playlists: [January](https://open.spotify.com/playlist/5IZoPYbwGKrqhOx9l
 
 Here are a few of the places that bought joy to my year: 
 
-- Zell em See - skiing trip for bday in a Austria which had surprisingly good snow and runs. Just don’t miss the last lift down in the evening!
+- Zell em See - skiing trip for bday in Austria which had surprisingly good snow and runs. Just don’t miss the last lift down in the evening!
 - Mumbles - what a part of the world. 
 - Isle of Mull - summer camping trip. The Hebrides are my favourite place in world. 
 - Barcelona - visit to gf’s brother living out there. Oh the food! 
