@@ -31,8 +31,8 @@ Standout tracks/bands/albums are:
 Spotify playlists: [January](https://open.spotify.com/playlist/5IZoPYbwGKrqhOx9lvMjLy?si=f119d1e9bce0480f) / [February](https://open.spotify.com/playlist/507zTBleqGBtxUbursDbxF?si=150b96110b2949ed) / [March](https://open.spotify.com/playlist/401Ja8PylJJR7nZAM6hGed?si=c1be467b63d14bc0) / [May](https://open.spotify.com/playlist/60E3pVvmojRLzut4pooZht?si=e18bcc8a33724523) / [June](https://open.spotify.com/playlist/5VkoL7nThkn2yBCfGwUk2N?si=35f22b4f243e4f7f) / [July](https://open.spotify.com/playlist/2BnTI7Hy4FdzpDGShLg0Cj?si=33cf04368f9b4e1d) / [August]() / [September](https://open.spotify.com/playlist/41WxLzOSL8MnUocD0nUuyc?si=64624c11de1e4915) / [October](https://open.spotify.com/playlist/0qLDG8xkPUMFa8zx8JT6g6?si=3fedee9faec544b3) / [November](https://open.spotify.com/playlist/32rde9WLQ1XVfeehhKJdq7?si=9e3cf3518f904494) / [December](https://open.spotify.com/playlist/5hTq4xm8LmTGJhPIjCbF5Q?si=a75a8ccf48b94a4a)
 
 #### Restaurants/5:
-- The Zetter: 3.5
-- The Wallpack: 4.5
+- Kinneuchar Inn: 4.5
+- The Woolpack: 4.5
 - Brat: 4.2
 - Barrafina: 3.95
 - Kerridges Bar & Grill: 4.1
