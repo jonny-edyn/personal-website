@@ -85,6 +85,9 @@ const Aboutme: React.FC<PageProps<DataProps>> = ({
         <li>
         Play golf at Augusta
         </li> 
+        <li>
+        Work on a US presidential election campaign 
+        </li> 
     </ul>
 
     <Link to="/">Go back to the homepage</Link>
