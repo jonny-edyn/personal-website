@@ -64,7 +64,7 @@ const Aboutme: React.FC<PageProps<DataProps>> = ({
         <a href="https://www.edyn.care">Edyn</a> (2018 - present)
         </li>
         <li>
-        <a href="https://www.referendum.wtf">Referendum.wft</a> (2016)
+        <a href="https://twitter.com/referendum_wtf">Referendum.wtf</a> (2016)
         </li>
         <li>
         <a href="https://github.com/jonny-edyn/Whip">Whip</a> (2015)
