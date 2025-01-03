@@ -19,7 +19,7 @@ Standout tracks/bands/albums are:
 
 - Mary Wallopers - The Holy Ground. An Irish folk band who are best live act I’ve seen. I went and saw them in Manchester for my birthday and it was a lively gathering. A real celebration of unity brought to a crescendo with the first 3 chords of Eileen Og. Go on, check it out!
 
-- Kanye West - never Ye, always Kanye. I always see Kanye in three parts. 1. A complicated human going through a lot without an effective support mechanism around him. 2. A reasonable rapper. 3. An incredible producer. But after a long conversation with a friend, during which they argued he's the artist of our generation, I returned and on reflection he's right, he's got to up there. 
+- Kanye West - never Ye, always Kanye. I always see Kanye in three parts. 1. A complicated human going through a lot without an effective support mechanism around him. 2. A reasonable rapper. 3. An incredible producer. But after a long conversation with a friend, during which they argued he's the artist of our generation, I returned and on reflection he's right, he's got to be up there. 
 
 - MF DOOM - My love for DOOM deepened this year leading to me purchasing my first bit of DOOM merch - a cereal bowl and a figurine which were quite possibly my favourite acquisitions. From last years round up, any Dooms fans who haven’t read Ta-Nehisi Coates article spending a few days with Doom need to check it out [here](https://www.newyorker.com/magazine/2009/09/21/the-mask-of-doom). ALL CAPS. 
 
@@ -52,7 +52,7 @@ Standout tracks/bands/albums are:
 
 - Prof G Markets  - Scott Galloway explains the stock market like a grumpy uncle who is very aware of his boomer luck. Expect life advice, occasional rants about billionaires, and enough economic jargon to make you pretend you understood it all.
 
-- The 404 Media Podcast - If you find tech Tech scary then don't listen. It makes it all scarier. 4 ex vice investigative journalists bring to light stories on cyber security, AI, consumer rights and surveillance. An audio Black Mirror but it's reality. 
+- The 404 Media Podcast - If you find tech scary then don't listen. It makes it all scarier. 4 ex vice investigative journalists bring to light stories on cyber security, AI, consumer rights and surveillance. An audio Black Mirror but it's reality. 
 
 - Bad Friends - Bobby Lee's and Andrew Santino's dysfunctional comedy podcast which is what I imagine a large family Christmas dinner is like - lots of people talking over each other with no real agreement on conversation theme but good times all round.
 
@@ -123,8 +123,8 @@ Here are a few of the places that bought joy to my year:
 - Lords Cricket - Eng vs Sri Lanka. Root becoming England's all time top run scorer. 
 - La Cadiere d’azur, France - A week away with Natalia and Gregoire (ello mate!)
 - Prague & Dresden - A weekend get away to celebrate Claire's bday and see Nils Fram 
-- Manchester - A night on canal street with Mark.
-- Copenhagen - A Ryan family adventure to support Karis complete her hydrox event which she absolutely nailed!
+- Manchester - A night out on canal street with Marc.
+- Copenhagen - A Ryan family adventure to support Karis complete her Hyrox event which she absolutely nailed!
 
 #### Youtubers
 
