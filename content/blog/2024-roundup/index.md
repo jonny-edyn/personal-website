@@ -119,9 +119,9 @@ Standout tracks/bands/albums are:
 Here are a few of the places that bought joy to my year: 
 
 - Edinburgh - 3 months living up in Scotland was a dream start to the year. 
-- Blythe Hill Festival - community event in the park at the end of the road. Thatcher's hell. 
+- Blythe Hill Festival - A community event in the park at the end of our road. Thatcher's hell. 
 - Lords Cricket - Eng vs Sri Lanka. Root becoming England's all time top run scorer. 
-- La Cadiere d’azur, France - A week away with Natalia and Gregoire (ello mate!)
+- La Cadiere d’azur, France - A week away with Natalia and Gregoire (ello mate!) was bliss. 
 - Prague & Dresden - A weekend get away to celebrate Claire's bday and see Nils Fram 
 - Manchester - A night out on canal street with Marc.
 - Copenhagen - A Ryan family adventure to support Karis complete her Hyrox event which she absolutely nailed!
