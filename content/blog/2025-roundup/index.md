@@ -19,7 +19,7 @@ Anyways. Here’s the 2025 cultural roundup. Same format as before: deeply perso
 
 #### Music:
 
-I'm happy report that music listening continues to be central to day-to-day existence. In 2025 45,438 minutes of the good stuff was consumed - a 23% increase on last year. I organised and logged my records like the organised adult I sometimes pretend to be, added a few new bits to the collection, and even spent some time in Logic making electronic music of my own. None of it is suitable for public consumption - not because it's too edgby but because it's pretty awful - but it’s given me an enormous amount of joy, which is basically the whole point. There’s been a shift in my morning routine too: NTS Radio has become the default wake-up companion, which means Radio 4 has been banished to the bin. (I still love you, Amol Rajan — this isn’t personal, it’s just not working anymore).
+I'm happy report that music listening continues to be central to day-to-day existence. In 2025 45,438 minutes of the good stuff was consumed - a 23% increase on last year. I organised and logged my records like the organised adult I sometimes pretend to be, added a few new bits to the collection, and even spent some time in Logic making electronic music of my own. None of it is suitable for public consumption - not because it's too avantgarde but because it's pretty awful - but it’s given me an enormous amount of joy, which is basically the whole point. There’s been a shift in my morning routine too: NTS Radio has become the default wake-up companion, which means Radio 4 has been banished to the bin. (I still love you, Amol Rajan — this isn’t personal, it’s just not working anymore).
 
 Anyways. Here’s what I’ve been listening to.
 
