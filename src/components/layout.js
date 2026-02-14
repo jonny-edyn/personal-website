@@ -4,31 +4,31 @@ import { Link } from "gatsby"
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
-  let header
-
-  if (isRootPath) {
-    header = (
-      <Link className="header-home" to="/">
-        {title}
-      </Link>
-    )
-  } else {
-    header = (
-      <Link className="header-link-home" to="/">
-        {title}
-      </Link>
-    )
-  }
 
   return (
-    <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <header className="global-header">{header}</header>
-      <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with ❤️ & ☕ in London using
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
-      </footer>
+    <div className="site-shell" data-is-root-path={isRootPath}>
+      <div className="site-glow site-glow-left" aria-hidden="true" />
+      <div className="site-glow site-glow-right" aria-hidden="true" />
+      <div className="global-wrapper">
+        <header className="global-header">
+          <Link
+            className={isRootPath ? "header-home" : "header-link-home"}
+            to="/"
+          >
+            {title}
+          </Link>
+          <nav className="header-nav" aria-label="Primary">
+            <Link to="/">Home</Link>
+            <Link to="/blog">Blog</Link>
+            <Link to="/about-me">About</Link>
+          </nav>
+        </header>
+        <main>{children}</main>
+        <footer className="site-footer">
+          © {new Date().getFullYear()}, Built with Gatsby in London
+          <span className="site-footer-version">Version 2.0</span>
+        </footer>
+      </div>
     </div>
   )
 }

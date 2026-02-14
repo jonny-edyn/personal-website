@@ -1,73 +1,31 @@
-/**
- * Bio component that queries for data
- * with Gatsby's useStaticQuery component
- *
- * See: https://www.gatsbyjs.com/docs/how-to/querying-data/use-static-query/
- */
-
 import * as React from "react"
 import { graphql, useStaticQuery } from "gatsby"
-import Img from "gatsby-image"
-
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 const Birds = () => {
   const data = useStaticQuery(graphql`
-    query {
+    query BirdsImage {
       file(relativePath: { eq: "birds.jpeg" }) {
         childImageSharp {
-          fluid {
-            ...GatsbyImageSharpFluid
-          }
+          gatsbyImageData(
+            layout: CONSTRAINED
+            width: 1200
+            placeholder: BLURRED
+            formats: [AUTO, WEBP, AVIF]
+            quality: 70
+          )
         }
       }
     }
   `)
 
-  return <Img fluid={data.file.childImageSharp.fluid} />
-  
+  const image = getImage(data.file)
+
+  return (
+    <figure className="hero-image-wrap">
+      <GatsbyImage className="hero-image" image={image} alt="Birds in flight" />
+    </figure>
+  )
 }
 
 export default Birds
-
-
-
-
-// const Birds = () => {
-//   const data = useStaticQuery(graphql`
-//     query BioQuery {
-//       site {
-//         siteMetadata {
-//           author {
-//             name
-//             summary
-//           }
-//           social {
-//             twitter
-//             instagram
-//           }
-//         }
-//       }
-//     }
-//   `)
-
-//   // Set these values by editing "siteMetadata" in gatsby-config.js
-//   const author = data.site.siteMetadata?.author
-//   const social = data.site.siteMetadata?.social
-
-//   return (
-//     <div>
-//       <StaticImage
-//         className="birds"
-//         layout="fixed"
-//         formats={["auto", "webp", "avif"]}
-//         src="../images/birds.jpeg"
-//         width={750}
-//         quality={98}
-//         alt="Profile picture"
-//       />
-//       <br></br>
-//       </div>
-//   )
-// }
-
-// export default Birds
