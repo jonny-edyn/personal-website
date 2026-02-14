@@ -360,6 +360,12 @@ td {
   margin-top: 0;
 }
 
+.recent-tracks table th:first-child,
+.recent-tracks table td:first-child {
+  width: 3.5rem;
+  padding-right: var(--spacing-4);
+}
+
 .blog-post header h1 {
   margin-top: 0;
 }
