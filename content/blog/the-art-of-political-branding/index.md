@@ -2,6 +2,7 @@
 title: That art of political branding
 date: "2023-01-02T22:12:03.284Z"
 description: "This article was first posted on medium on September 15th, 2015. It looks at how Jeremy Corbyn could overcome the compounding media narrative being created by his enemies through embracing a reductionist view of politics."
+tags: ["politics", "essay"]
 ---
 
 > This article was first posted on medium on September 15th, 2015. It looks at how Jeremy Corbyn could overcome the compounding media narrative being created by his enemies through embracing a reductionist view of politics.

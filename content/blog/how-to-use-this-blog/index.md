@@ -2,9 +2,10 @@
 title: Markup used in this website
 date: "2023-01-01T22:12:03.284Z"
 description: "A breakdown of the markup syntax used to create the style of my blogs - no need to read unless interested in code. "
+tags: ["coding", "markdown", "website"]
 ---
 
-This is my first post on my new blog! Hopefully, I'll write slighlty more interesting things in the future. This blog uses Adam Schwartz's markdown kitchen sink as its boilerplate for its markdown. You view the raw test.md [(here)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md). 
+This is my first post on my new blog! Hopefully, I'll write slighlty more interesting things in the future. This blog uses Adam Schwartz's markdown kitchen sink as its boilerplate for its markdown. You view the raw test.md [(here)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md).
 
 ```js
 const saltyDuckEgg = "chinese preserved food product"
@@ -15,8 +16,6 @@ const saltyDuckEgg = "chinese preserved food product"
 | 1      | Harry Potter and the Philosopher’s Stone | 2001 |
 | 2      | Harry Potter and the Chamber of Secrets  | 2002 |
 | 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
-
-
 
 This is a paragraph.
 

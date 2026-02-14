@@ -13,3 +13,42 @@ This is the repo for my personal website.
 - Gatsby (using React)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+## Run Locally
+
+### 1) Use the project Node version
+
+This repo uses `.nvmrc` (`v19.3.0`).
+
+```bash
+nvm install 19.3.0
+nvm use
+```
+
+### 2) Install dependencies
+
+```bash
+npm install
+```
+
+### 3) Start the local dev server
+
+```bash
+npm run develop
+```
+
+Then open: `http://localhost:8000`
+
+### 4) Build and serve production locally (optional)
+
+```bash
+npm run build
+npm run serve
+```
+
+### Useful commands
+
+```bash
+npm run clean   # clear Gatsby cache
+npm run format  # format JS/TS/JSON/MD files
+```

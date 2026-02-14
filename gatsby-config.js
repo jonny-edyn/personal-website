@@ -18,12 +18,11 @@ module.exports = {
     siteUrl: `https://jonnybottomley.com`,
     social: {
       twitter: `jonny_bottomley`,
-      instagram: 'jonny_bottomley'
+      instagram: "jonny_bottomley",
     },
   },
   plugins: [
     `gatsby-plugin-image`,
-    `gatsby-image`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -39,10 +38,10 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-sass',
+      resolve: "gatsby-plugin-sass",
       options: {
-        implementation: require('sass')
-      }
+        implementation: require("sass"),
+      },
     },
     {
       resolve: `gatsby-transformer-remark`,
@@ -51,7 +50,11 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 630,
+              maxWidth: 900,
+              quality: 70,
+              withWebp: true,
+              withAvif: true,
+              linkImagesToOriginal: false,
             },
           },
           {
