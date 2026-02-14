@@ -352,6 +352,14 @@ td {
   font-size: 0.72rem;
 }
 
+.recent-tracks {
+  margin: var(--spacing-8) 0;
+}
+
+.recent-tracks h3 {
+  margin-top: 0;
+}
+
 .blog-post header h1 {
   margin-top: 0;
 }

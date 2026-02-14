@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
+import RecentTracks from "../components/recent-tracks"
 import Seo from "../components/seo"
 
 const BlogPostTemplate = ({
@@ -10,6 +11,7 @@ const BlogPostTemplate = ({
   location,
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
+  const isTopTracksPost = post.fields?.slug === "/my-top-tracks-this-month/"
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -26,6 +28,7 @@ const BlogPostTemplate = ({
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
+        {isTopTracksPost && <RecentTracks />}
         <hr />
         <footer>
           <Bio />
@@ -87,6 +90,9 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      fields {
+        slug
+      }
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
