@@ -35,7 +35,7 @@ const Bio = () => {
         height={120}
         quality={72}
         placeholder="blurred"
-        imgStyle={{ borderRadius: "14px" }}
+        imgStyle={{ borderRadius: "50%" }}
         alt="Profile picture"
       />
       {author?.name && (
