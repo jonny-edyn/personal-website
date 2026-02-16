@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Birds from "../components/birds"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import SubscribeForm from "../components/subscribe-form"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -63,6 +64,7 @@ const BlogIndex = ({ data, location }) => {
             )
           })}
         </ol>
+        <SubscribeForm />
       </section>
     </Layout>
   )

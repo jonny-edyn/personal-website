@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import SubscribeForm from "../components/subscribe-form"
 
 const BlogPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -75,6 +76,7 @@ const BlogPage = ({ data, location }) => {
             )
           })}
         </ol>
+        <SubscribeForm />
       </section>
     </Layout>
   )

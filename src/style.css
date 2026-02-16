@@ -259,6 +259,85 @@ td {
   gap: var(--spacing-5);
 }
 
+.subscribe-card {
+  margin: 0 0 var(--spacing-4);
+  padding: var(--spacing-8);
+  border: 1px solid var(--color-border);
+  border-radius: 0.45rem;
+  background: #fafaf9;
+}
+
+.post-list + .subscribe-card {
+  margin-top: var(--spacing-8);
+}
+
+.subscribe-card h3 {
+  margin: 0 0 var(--spacing-3);
+}
+
+.subscribe-card p {
+  margin: 0 0 var(--spacing-5);
+}
+
+.subscribe-form {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) auto;
+  gap: var(--spacing-3);
+  align-items: end;
+  margin-bottom: var(--spacing-3);
+}
+
+.subscribe-field {
+  min-width: 0;
+}
+
+.subscribe-field label {
+  display: block;
+  margin-bottom: var(--spacing-1);
+  font-family: var(--font-heading);
+  font-size: var(--fontSize-0);
+  font-weight: 600;
+  color: var(--color-text-muted);
+}
+
+.subscribe-field input {
+  width: 100%;
+  min-width: 0;
+  padding: 0.5rem 0.65rem;
+  border: 1px solid var(--color-border);
+  border-radius: 0.35rem;
+  background: var(--color-surface);
+  color: var(--color-text);
+  font: inherit;
+}
+
+.subscribe-action {
+  min-width: 0;
+}
+
+.subscribe-form button {
+  height: 2.2rem;
+  padding: 0.35rem 0.8rem;
+  border: 1px solid var(--color-border);
+  border-radius: 0.35rem;
+  background: var(--color-surface);
+  color: var(--color-primary);
+  font-family: var(--font-heading);
+  font-size: var(--fontSize-0);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.subscribe-form button:hover,
+.subscribe-form button:focus-visible {
+  border-color: #b9b6b2;
+}
+
+.subscribe-card small {
+  display: block;
+  color: var(--color-text-muted);
+}
+
 .home-feed-header {
   margin-bottom: var(--spacing-8);
   padding-bottom: var(--spacing-4);
@@ -434,7 +513,7 @@ td {
 }
 
 .site-footer {
-  margin-top: var(--spacing-16);
+  margin-top: var(--spacing-10);
   padding-top: var(--spacing-6);
   border-top: 1px solid var(--color-border);
   color: var(--color-text-muted);
@@ -472,6 +551,19 @@ td {
   .bio-avatar {
     width: 88px;
     height: 88px;
+  }
+
+  .subscribe-form {
+    grid-template-columns: 1fr;
+  }
+
+  .subscribe-action {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .subscribe-form button {
+    width: fit-content;
   }
 
   .about-hero-note {
