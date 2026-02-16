@@ -362,9 +362,9 @@ td {
 
 .recent-tracks table th:first-child,
 .recent-tracks table td:first-child {
-  width: 3.6rem;
-  padding-right: var(--spacing-4);
-  text-align: right;
+  width: 2rem;
+  padding-right: var(--spacing-2);
+  text-align: left;
   white-space: nowrap;
 }
 

@@ -1,8 +1,8 @@
 ---
-title: My top tracks this month
-date: "2023-01-02T22:12:04.284Z"
-description: "I'm working on using the spotify API to call the last 50 tracks I've been listening to on spotify and create a list. This is a work in progress and something I hope to have completed by end of January 23."
+title: My top spotify tracks this month
+date: "2026-02-15T22:12:04.284Z"
+description: "This post now uses the Spotify API to display my latest listening history on the site, pulling in my most recent tracks dynamically."
 tags: ["music", "spotify", "playlist"]
 ---
 
-I'm using the Spotify API to fetch the latest 50 tracks I've listened to. This section now renders live data when the site is deployed with the required Spotify environment variables.
+This post now reflects a completed integration with the Spotify API. It fetches my latest listening history and renders my recent tracks dynamically on the page when the required Spotify environment variables are set. I hope you enjoy the music list, and let me know if you come across anything new you like from it.
