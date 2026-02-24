@@ -254,11 +254,9 @@ td {
 }
 
 .gatsby-image-wrapper [data-main-image] {
+  opacity: 1 !important;
+  transform: none !important;
   transition: none !important;
-}
-
-.gatsby-image-wrapper [data-placeholder-image] {
-  opacity: 0 !important;
 }
 
 .home-feed {
