@@ -253,6 +253,14 @@ td {
   overflow: hidden;
 }
 
+.gatsby-image-wrapper [data-main-image] {
+  transition: none !important;
+}
+
+.gatsby-image-wrapper [data-placeholder-image] {
+  opacity: 0 !important;
+}
+
 .home-feed {
   display: flex;
   flex-direction: column;

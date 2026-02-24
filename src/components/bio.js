@@ -34,7 +34,7 @@ const Bio = () => {
         width={120}
         height={120}
         quality={72}
-        placeholder="blurred"
+        placeholder="none"
         imgStyle={{ borderRadius: "50%" }}
         alt="Profile picture"
       />

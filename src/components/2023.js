@@ -10,7 +10,7 @@ const YearReviewImage = () => {
           gatsbyImageData(
             layout: CONSTRAINED
             width: 1000
-            placeholder: BLURRED
+            placeholder: NONE
             formats: [AUTO, WEBP, AVIF]
             quality: 70
           )
